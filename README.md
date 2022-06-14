@@ -2,4 +2,6 @@
 
 ## Config files list
 
-- Alacritty
+### Alacritty
+
+save `alacritty.yml` at `~/.config/alacritty/`
